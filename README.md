@@ -7,6 +7,7 @@ Small automation project i did to play Destiny Child game.
 Why? because this game give a LOT of stamina to do mission with. And those mission unskippable. While the auto farming existing inside the game is already good enough, it doesn't provide auto farming on big event. Such as:
 - World Boss mode
 - Ragna Break (Raid Boss)
+
 These event are very time consuming since the battle phase is unskippable, and usually you need 1x speed for maximum damage output (using 3x speed is lowering your FPS, hence lowering your child's DPS).
 
 World Boss mode (wb_auto.py)
